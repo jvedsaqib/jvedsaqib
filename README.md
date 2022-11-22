@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **reactJS**
 
-- 💬 Ask me about **Java, sql**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **jvedsaqib6291@gmail.com**
 

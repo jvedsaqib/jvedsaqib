@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saqib</h1>
 <h3 align="center">A student who loves to learn !</h3>
 
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvedsaqib&label=Profile%20views&color=0e75b6&style=flat" alt="jvedsaqib" /> </p>
 
 - 🌱 I’m currently learning **reactJS**

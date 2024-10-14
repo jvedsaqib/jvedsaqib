@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jvedsaqib6291@gmail.com**
 
-- 📄 Know about my [experiences](https://www.canva.com/design/DAFMqx561ro/reoa915AfH222wVKu6hACw/view?utm_content=DAFMqx561ro&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my [experiences](https://www.canva.com/design/DAGTdO1ckxE/Kl7MhvSh4Xd7i4qtMTCUiw/edit?utm_content=DAGTdO1ckxE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
